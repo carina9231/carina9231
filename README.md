@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-## 💬 쇼핑몰 운영 경력이 개발자가 되기까지
+#### 💬 쇼핑몰 운영 경력이 개발자가 되기까지
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
