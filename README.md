@@ -1,4 +1,4 @@
-### 안녕하세요! 엉덩이가 무거운 개발자 배소영입니다! 👋
+## 안녕하세요! 엉덩이가 무거운 개발자 배소영입니다! 👋
 
 <!--
 **carina9231/carina9231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-#### 💬 쇼핑몰 운영 경력이 개발자가 되기까지
+### 💬 쇼핑몰 운영 경력이 개발자가 되기까지
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
