@@ -4,8 +4,9 @@
 **carina9231/carina9231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
-- 💬 쇼핑몰 운영 경력이 개발자가 되기까지..
+## 💬 쇼핑몰 운영 경력이 개발자가 되기까지
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
